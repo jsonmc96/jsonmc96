@@ -29,7 +29,7 @@ Especializado en backend con .NET, diseño de bases de datos y desarrollo de API
 ### Integraciones
 - APIs REST / SOAP
 - SRI (facturación electrónica, ATS)
-- Bancos (Pichincha, Guayaquil, Pacífico)
+- ...........
 
 ### Automatización
 - n8n
